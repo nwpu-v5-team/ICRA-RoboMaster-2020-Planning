@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['radius_5f_1780',['radius_',['../classroborts__local__planner_1_1_circular_robot_footprint.html#a63891f25ada2b81b7f70f9afb44fce40',1,'roborts_local_planner::CircularRobotFootprint']]],
+  ['raytrace_5frange_5f_1781',['raytrace_range_',['../classroborts__costmap_1_1_observation.html#ac39eb57f89ec7f46610f410101f657a8',1,'roborts_costmap::Observation::raytrace_range_()'],['../classroborts__costmap_1_1_observation_buffer.html#a5d5896678574d961b26040755b246157',1,'roborts_costmap::ObservationBuffer::raytrace_range_()']]],
+  ['rear_5foffset_5f_1782',['rear_offset_',['../classroborts__local__planner_1_1_two_circles_robot_footprint.html#abd0c4f2c6cdbffe64de49728cbfc63e0',1,'roborts_local_planner::TwoCirclesRobotFootprint']]],
+  ['rear_5fradius_5f_1783',['rear_radius_',['../classroborts__local__planner_1_1_two_circles_robot_footprint.html#ab5ad8c7eca2ade9f29553f945d52b7a8',1,'roborts_local_planner::TwoCirclesRobotFootprint']]],
+  ['reset_5ftime_5f_1784',['reset_time_',['../classroborts__costmap_1_1_obstacle_layer.html#a6261061820ddb0754c32535477c57840',1,'roborts_costmap::ObstacleLayer']]],
+  ['resolution_5f_1785',['resolution_',['../classroborts__costmap_1_1_costmap2_d.html#a0f70b0e42c010a0b9a7e9f20efc7b2ca',1,'roborts_costmap::Costmap2D::resolution_()'],['../classroborts__costmap_1_1_inflation_layer.html#a4db7a67cada4a3a58b06bad14c3cac6d',1,'roborts_costmap::InflationLayer::resolution_()']]],
+  ['robot_5fbase_5fframe_5f_1786',['robot_base_frame_',['../classroborts__costmap_1_1_costmap_interface.html#a95044de6d21a4bd4be826c5ec940aa26',1,'roborts_costmap::CostmapInterface']]],
+  ['robot_5fcircumscribed_5fradius_1787',['robot_circumscribed_radius',['../classroborts__local__planner_1_1_teb_local_planner.html#af61f1d3b13c7b49df9d29ee42b5a6389',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5fcolor_5f_1788',['robot_color_',['../classroborts__costmap_1_1_buffer_layer.html#a414daaa646e6d7295ce4a691b3122ab1',1,'roborts_costmap::BufferLayer']]],
+  ['robot_5fcost_5f_1789',['robot_cost_',['../classroborts__local__planner_1_1_teb_local_planner.html#a31b79c88ef6ea2a794185351e23c2e89',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5fcurrent_5fvel_5f_1790',['robot_current_vel_',['../classroborts__local__planner_1_1_teb_local_planner.html#af2d843728d01eadb79cb2bcd29af87fc',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5ffootprint_5f_1791',['robot_footprint_',['../classroborts__local__planner_1_1_teb_local_planner.html#a59cf17227324c24faa802c8bb5089d9c',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5fgoal_5f_1792',['robot_goal_',['../classroborts__local__planner_1_1_teb_local_planner.html#a25a8c242089d63e191c20f3b6248a8fb',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5fid_5f_1793',['robot_id_',['../classroborts__global__planner_1_1_global_planner_node.html#ad447dd77d806449a275ff92fd0e70be0',1,'roborts_global_planner::GlobalPlannerNode']]],
+  ['robot_5finfo_5f_1794',['robot_info_',['../classroborts__local__planner_1_1_teb_optimal.html#aa1a5ab25440ecc6dbcbdee3bafecde71',1,'roborts_local_planner::TebOptimal']]],
+  ['robot_5finscribed_5fradius_5f_1795',['robot_inscribed_radius_',['../classroborts__local__planner_1_1_teb_local_planner.html#aa4a09de7c1261b1ab2c2ec87c9f5f2ce',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5fmodel_5f_1796',['robot_model_',['../classroborts__local__planner_1_1_obstacle_edge.html#a43186e2021be5ef6dadc64f5fe4b93b5',1,'roborts_local_planner::ObstacleEdge::robot_model_()'],['../classroborts__local__planner_1_1_inflated_obstacle_edge.html#ae07bb3fd4fd06f5847ef7e897cac5efc',1,'roborts_local_planner::InflatedObstacleEdge::robot_model_()'],['../classroborts__local__planner_1_1_teb_optimal.html#a66862087f1f9d071cdde4cb762a6f53e',1,'roborts_local_planner::TebOptimal::robot_model_()']]],
+  ['robot_5fpose_5f_1797',['robot_pose_',['../classroborts__local__planner_1_1_teb_local_planner.html#ad8caa65235a22d65b195a89c4ddc75e4',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['robot_5fstopped_5f_1798',['robot_stopped_',['../classroborts__costmap_1_1_costmap_interface.html#a3e5a6164f353f3e6673ec4b7a3249c80',1,'roborts_costmap::CostmapInterface']]],
+  ['robot_5ftf_5fpose_5f_1799',['robot_tf_pose_',['../classroborts__local__planner_1_1_teb_local_planner.html#af04b56d884aa86a0a618d62d31bbefbc',1,'roborts_local_planner::TebLocalPlanner']]],
+  ['rolling_5fwindow_5f_1800',['rolling_window_',['../classroborts__costmap_1_1_obstacle_layer.html#aafaf25d4e1d1da9ecc7c550cadf00887',1,'roborts_costmap::ObstacleLayer']]],
+  ['rotation_1801',['rotation',['../structroborts__costmap_1_1_robot_pose.html#abdf1848b513dc632a4cfa72fc7430c86',1,'roborts_costmap::RobotPose']]]
+];

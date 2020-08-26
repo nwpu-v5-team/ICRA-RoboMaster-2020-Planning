@@ -1,0 +1,28 @@
+var classroborts__costmap_1_1_observation_buffer =
+[
+    [ "ObservationBuffer", "classroborts__costmap_1_1_observation_buffer.html#ae75385a08e5919db41861986fa83cf50", null ],
+    [ "~ObservationBuffer", "classroborts__costmap_1_1_observation_buffer.html#a4f01d94f66896b5ab0bfa2e268840992", null ],
+    [ "BufferCloud", "classroborts__costmap_1_1_observation_buffer.html#a128e35b5bfbb1a56a56087cb7199c946", null ],
+    [ "BufferCloud", "classroborts__costmap_1_1_observation_buffer.html#a80de0896488474ba56ae80611d9a9aa0", null ],
+    [ "GetObservations", "classroborts__costmap_1_1_observation_buffer.html#ae88edf139239a178aadfbb3b2d9b8b70", null ],
+    [ "IsCurrent", "classroborts__costmap_1_1_observation_buffer.html#a09e9b47a043a9d8393663a6e3098ab4a", null ],
+    [ "Lock", "classroborts__costmap_1_1_observation_buffer.html#ad67656fbd5705921ca6178e6563f310c", null ],
+    [ "PurgeStaleObservations", "classroborts__costmap_1_1_observation_buffer.html#a533353d2930eab18f5d0b6b068910f7e", null ],
+    [ "ResetLastUpdated", "classroborts__costmap_1_1_observation_buffer.html#abaaa41866ded66851babe2c9ea2b26dd", null ],
+    [ "SetGlobalFrame", "classroborts__costmap_1_1_observation_buffer.html#a08bbfe6b6ce4b89d8af08c3129b99aa6", null ],
+    [ "Unlock", "classroborts__costmap_1_1_observation_buffer.html#a9b3ba69a993e38c245b982b577c523b8", null ],
+    [ "expected_update_rate_", "classroborts__costmap_1_1_observation_buffer.html#a3b8fb3737d02a33c9da648be1734a624", null ],
+    [ "global_frame_", "classroborts__costmap_1_1_observation_buffer.html#a441d7d09187abe835f4480e2fe078c69", null ],
+    [ "last_updated_", "classroborts__costmap_1_1_observation_buffer.html#af1c9187439722e668c5cda6c491d6758", null ],
+    [ "lock_", "classroborts__costmap_1_1_observation_buffer.html#a1eb562353540ca1e72565c0736d09d01", null ],
+    [ "max_obstacle_height_", "classroborts__costmap_1_1_observation_buffer.html#af7da49dbebc7b5ff652f2afcea3066eb", null ],
+    [ "min_obstacle_height_", "classroborts__costmap_1_1_observation_buffer.html#aeddc3e1e0cda9e67f434316166b888cc", null ],
+    [ "observation_keep_time_", "classroborts__costmap_1_1_observation_buffer.html#a2a69b65b6f01ea9efdb78c5515e82017", null ],
+    [ "observation_list_", "classroborts__costmap_1_1_observation_buffer.html#afaca279cd2c6610d9ddcb6b1bb983a3e", null ],
+    [ "obstacle_range_", "classroborts__costmap_1_1_observation_buffer.html#a94c6c198eee5d3aa30f34b8989f6b94b", null ],
+    [ "raytrace_range_", "classroborts__costmap_1_1_observation_buffer.html#a5d5896678574d961b26040755b246157", null ],
+    [ "sensor_frame_", "classroborts__costmap_1_1_observation_buffer.html#a39f9418ab3654b406b858856abb16708", null ],
+    [ "tf_", "classroborts__costmap_1_1_observation_buffer.html#a82994cdc5ac8fc90ff9d7f7d2c9155b5", null ],
+    [ "tf_tolerance_", "classroborts__costmap_1_1_observation_buffer.html#aa60bc67489d2311f426791d8c863cd51", null ],
+    [ "topic_name_", "classroborts__costmap_1_1_observation_buffer.html#ab6916a8365f54d7f8dc499b09de45c13", null ]
+];
