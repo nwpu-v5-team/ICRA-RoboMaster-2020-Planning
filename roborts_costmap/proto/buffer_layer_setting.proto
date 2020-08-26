@@ -1,0 +1,13 @@
+syntax = "proto2";
+package roborts_costmap;
+
+message ParaBufferLayer {
+    required bool first_map_only = 1;
+    required bool subscribe_to_updates = 2;
+    required bool use_maximum = 3;
+    required string topic_name = 4;
+    required bool is_raw_rosmessage = 5;
+    required bool is_debug = 6;
+    required string robot_color = 7;
+    required double buff_zone_smaller = 8;
+}

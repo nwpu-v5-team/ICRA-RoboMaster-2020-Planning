@@ -1,0 +1,9 @@
+Header header
+bool red1_detected
+bool red2_detected
+bool blue1_detected
+bool blue2_detected
+geometry_msgs/Point red1
+geometry_msgs/Point red2
+geometry_msgs/Point blue1
+geometry_msgs/Point blue2

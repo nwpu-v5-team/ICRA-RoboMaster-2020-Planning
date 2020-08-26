@@ -1,0 +1,4 @@
+bool open
+uint16 speed
+---
+bool received

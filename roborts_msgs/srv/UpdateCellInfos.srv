@@ -1,0 +1,4 @@
+string robot_id
+CellInfo[] cell_infos
+---
+int32 result

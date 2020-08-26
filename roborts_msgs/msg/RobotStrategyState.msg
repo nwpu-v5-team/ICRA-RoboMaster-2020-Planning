@@ -1,0 +1,3 @@
+bool my_1_is_collide
+
+bool my_2_is_collide

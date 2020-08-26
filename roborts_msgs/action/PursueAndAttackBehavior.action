@@ -1,0 +1,9 @@
+# Define the goal
+int32 my_robot
+int32 enemy_robot
+---
+#result definition RUNNING = 0, SUCCESS = 1, FAILURE = 2
+bool  finsh
+---
+# Define a feedback message status == 0 (pursue); status == 1 (attack) 
+int32 status

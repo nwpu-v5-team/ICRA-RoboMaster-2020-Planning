@@ -1,0 +1,4 @@
+inflation_radius: 0.2
+cost_scaling_factor:1
+is_raw_rosmessage: true
+is_debug: true

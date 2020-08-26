@@ -1,0 +1,8 @@
+first_map_only: true
+subscribe_to_updates: false
+use_maximum: true
+topic_name: "map"
+is_raw_rosmessage: true
+is_debug: true
+robot_color: "red"
+buff_zone_smaller: 0.0

@@ -1,0 +1,10 @@
+# Define the goal
+geometry_msgs/PoseStamped goal
+---
+#result definition RUNNING = 0, SUCCESS = 1, FAILURE = 2
+int32  error_code
+---
+# Define a feedback message
+float32 differ_angle
+int32  error_code
+string error_msg
